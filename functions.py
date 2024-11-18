@@ -90,8 +90,7 @@ def remove_duplicates(lst):
     :param lst: List of elements.
     :return: List without duplicates.
     """
-    for num in lst:
-        if num > 2
+    
 
 def find_common_elements(lst1, lst2):
     """
